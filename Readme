@@ -1,4 +1,4 @@
-## Leukemia Detection Using Image Processing Techniques
+**Leukemia Detection Using Image Processing Techniques**
 
 Microscopic imaging is the process of capturing and visualizing images of objects or samples that are too small to be seen by the naked eye. This is achieved through the use of a microscope and various imaging techniques, including brightfield, darkfield, phase contrast, and fluorescence microscopy. Microscopic imaging is widely used in various fields, such as biology, medicine, material science, and nanotechnology, for the study of cell structure, tissue analysis, and the examination of small samples.
 
@@ -11,7 +11,7 @@ Image processing is required in blood smear tests as it helps in the automatic a
 
 
 
-### Implementation of the image segmented technique:
+**Implementation of the image segmented technique:**
 
 - Thresholding is applied to enhanced images.
 - Erosion with a suitable mask is applied to the image.
@@ -20,7 +20,7 @@ Image processing is required in blood smear tests as it helps in the automatic a
 - Using sobel edge detection to detect edges on the filtered opened image
 - The edges detected are leukemia cells
 
-### Implementation of the image segmented technique:
+**Implementation of the image segmented technique:**
 
 - Thresholding is applied to enhanced images.
 - Erosion with a suitable mask is applied to the image.
